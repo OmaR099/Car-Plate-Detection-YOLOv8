@@ -61,6 +61,9 @@ Ensure that your data.yaml file is correctly configured to point to your trainin
 
 The output of the model will be saved in a text file named car_plate_data.txt, which contains the detected license plate information along with the date and time of detection for each frame where a plate was identified.
 
+<img src="https://github.com/user-attachments/assets/37463ae1-d1cd-4b26-98ef-c71a8d23b320" alt="image" width="450" height="450" />
+<img src="https://github.com/user-attachments/assets/dae8a091-a297-46a9-ae8c-724b06995004" alt="image" width="450" height="450" />
+
 ## License
 
 This project is licensed under the MIT License.
