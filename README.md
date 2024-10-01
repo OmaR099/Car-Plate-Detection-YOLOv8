@@ -55,6 +55,8 @@ Train YOLOv8: Use the following command to train the YOLOv8 model with the annot
 ```
 Ensure that your data.yaml file is correctly configured to point to your training and validation datasets.
 
+![image](https://github.com/user-attachments/assets/2d538e7e-fb7d-4b18-a348-b15cdf2af420)
+
 ## Results
 
 The output of the model will be saved in a text file named car_plate_data.txt, which contains the detected license plate information along with the date and time of detection for each frame where a plate was identified.
