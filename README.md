@@ -2,6 +2,8 @@
 
 This project implements a Car Plate Detection system using the YOLOv8 (You Only Look Once version 8) model. The workflow involves gathering data through frame extraction from videos, annotating frames with bounding boxes for car plates using Roboflow, filtering out unused frames, training the YOLOv8 model, and testing it on video input. The detected license plate information is then extracted using PyTesseract and saved to a text file along with the date and time of detection.  
 
+<img src="https://github.com/user-attachments/assets/dda06c4f-a00c-4af3-88b8-06baa14397a7" alt="image" width="850" height="850" />
+
 ## Table of Contents  
 
 - [Features](#features)  
@@ -66,4 +68,3 @@ This project is licensed under the MIT License.
 - YOLOv8 for providing a state-of-the-art object detection model.
 - Roboflow for offering tools for image annotation and dataset management.
 - PyTesseract for providing OCR capabilities to extract text from images.
-- Contributors and the open-source community for guidance and support.
